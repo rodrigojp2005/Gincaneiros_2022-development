@@ -1,0 +1,53 @@
+Usuário:
+- Nome Completo
+- E-mail
+- Senha
+- Foto de perfil
+
+Cliente:
+- Gincanas Criadas
+- Gincanas que Participa
+- Quantidade de Pontos (Saldo)
+- Cupons
+- Cidade (?)
+- CPF (?)
+
+Empresário:
+- Gincanas Criadas
+- Gincanas que Participa
+- CNPJ (?)
+
+Gincana:
+- Título
+- Início da Gincana
+- Fim da Gincana
+- Descrição
+- Imagem de destaque
+- Criador
+- Pontos (1º colocado)
+- Pontos (2º colocado)
+- Pontos (3º colocado)
+- Pontos (4º colocado)
+- Pontos (5º colocado)
+- Pontos (6º colocado)
+- Pontos (7º colocado)
+- Pontos (8º colocado)
+- Pontos (9º colocado)
+
+Gincana Pessoal:
+- Prêmio (pontos)
+
+Gincana Empresarial:
+- Regras
+- Validade do Cupom
+- Prêmio (produto)
+- Valor Total do Prêmio
+
+Questão (Quiz):
+- Gincana
+- Pergunta
+- Imagem de destaque
+- 1ª Alternativa
+- 2ª Alternativa
+- 3ª Alternativa
+- Gabarito (Alternativa Correta)
